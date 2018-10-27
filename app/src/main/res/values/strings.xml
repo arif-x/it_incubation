@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">RUMAH MEGAH HARGA BERSAHABAT</string>
+    <string name="spek_singkat">Dibawah hanya spek singkat/n
+        Untuk lebih Jelas bisa dicek PM 082228882543</string>
+    <string name="content_specs_luas_tanah">300m x 500m (Lega Amat)</string>
+    <string name="content_specs_bangunan">200m x 300m (Bisa dipakek lapangan sepak bola :"v)</string>
+    <string name="content_specs_singkat">20 Kamar (Bisa dibuat nampung napi)\n20 kamar mandi (Untuk perkamar)\nPager seperti tembok Cina\nPerkamar Ber-AC
+    </string>
+    <string name="stock">Stock hanya 1 lah mblo</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="npenjual">WONG EDAN</string>
+    <string name="beli">Beli</string>
+    <string name="_735">Rp1.000.000.000.000.000,-</string>
+    <string name="_6_photos">6 photos</string>
+    <string name="catatan">Santai ae bos gk ono genderuwo :"v</string>
+</resources>
